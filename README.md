@@ -1,2 +1,2 @@
 # Kwillison--hello-github
-repository number 2
+number 2 repository
